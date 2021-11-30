@@ -1,2 +1,0 @@
-# techveyron
-tech knowledge world
